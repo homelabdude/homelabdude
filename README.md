@@ -31,5 +31,5 @@ I currently work as Senior Software Dev at [Tesco](https://www.tesco.com/), spec
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/homelabdude/) 
 [![Portfolio](https://img.shields.io/badge/-homelabdude.com-FF1D8E?logo=firefox&logoColor=fff)](https://homelabdude.com) 
 [![Twitter](https://img.shields.io/badge/--000?logo=x&logoColor=fff)](https://x.com/homelabdude) 
-[![Email](https://img.shields.io/badge/-Email-9457EB?logo=protonmail&logoColor=fff)](mailto:hi@ash0ne.com)
+[![Email](https://img.shields.io/badge/-Email-9457EB?logo=protonmail&logoColor=fff)](mailto:hi@homelabdude.com)
 [![YouTube](https://img.shields.io/badge/-YouTube-000?logo=youtube&logoColor=f00)](https://www.youtube.com/@homelabdude) 
